@@ -12,7 +12,7 @@ IndexHub simplifies your quest for quality repositories, providing you with a ce
 
 Don't forget to save this repository! ⭐️
 
-
+.
 
 | #   | Repository Name                           | Link                                                |
 | --- | ----------------------------------------- | --------------------------------------------------- |
